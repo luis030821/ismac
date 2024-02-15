@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.section p {
+  padding: 10px;
+}
