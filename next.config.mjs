@@ -10,6 +10,7 @@ const nextConfig = {
     "@llampukaq/icons",
     "@llampukaq/realm-email-provider",
   ],
+  output: "export",
 };
 
 export default nextConfig;
